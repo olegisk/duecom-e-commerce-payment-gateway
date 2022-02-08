@@ -1,0 +1,5 @@
+{
+    "require": {
+        "due/php-ecom-sdk": "^1.0"
+    }
+}
